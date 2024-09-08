@@ -20,7 +20,6 @@ And this is the output (the 170 matches with the least distances were chosen so 
 
 I used https://math.stackexchange.com/a/3511513 for transforming a point using the homography matrix. <br/>
 Sometimes the outputs aren’t that good since RANSAC randomly chooses the points, but the outputs shown here are two of the good ones that appear more often:<br/>
- 
 matching result after RANSAC: <br/>
 ![image](https://github.com/user-attachments/assets/7fac52af-391d-40b5-8260-01fcb017dd50)<br/>
 
