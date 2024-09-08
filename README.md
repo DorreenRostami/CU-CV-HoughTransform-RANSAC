@@ -1,5 +1,4 @@
 # CU-CV-HoughTransform-RANSAC
-Hough Transform + RANSAC and Homography
 
 
 Part 1) <br/>
@@ -31,11 +30,11 @@ visualization of bounding box:<br/>
 final result: <br/>
 ![image](https://github.com/user-attachments/assets/ca57c454-a707-438e-a651-c8eb9d15cbc4)<br/>
 
-H matrix:<br/>
+H matrix:
 [[ 2.43004075e-03 -1.15499041e-03  7.76392521e-01]<br/>
  [ 1.23074754e-05  6.78541589e-04  6.30235170e-01]<br/>
  [ 8.15056025e-08 -3.09772918e-06  3.25329662e-03]]<br/>
-============================================
+============================================<br/>
 Another output:<br/>
 matching result after RANSAC:<br/>
 ![image](https://github.com/user-attachments/assets/a4299711-9ae6-451a-98a4-d06209d5b383)<br/>
